@@ -1,6 +1,6 @@
 # DSHCNet
 ## Install
-To use EMPHCN you must make sure that your python version is greater than 3.7. If you don’t know the version of python you can check it by:
+To use DSHCNet you must make sure that your python version is greater than 3.7. If you don’t know the version of python you can check it by:
 ```python
 python
 >>> import platform

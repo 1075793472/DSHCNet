@@ -1,4 +1,5 @@
 # DSHCNet
+A dual-scale fused hypergraph convolution-based hyperedge prediction model for predicting missing reactions in genome-scale metabolic networks
 ## Install
 To use DSHCNet you must make sure that your python version is greater than 3.7. If you don’t know the version of python you can check it by:
 ```python
@@ -21,7 +22,7 @@ The required packages are as follows:
 - torch_sparse==0.6.11
 - tqdm==4.65.0
 ```bash
-python main.py --dataset T1
+python main.py --Bigg
 ```
 ### Quick start
 We use the dataset BiGG to illustrate an example. 

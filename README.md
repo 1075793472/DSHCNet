@@ -21,9 +21,7 @@ The required packages are as follows:
 - torch_scatter==2.0.8
 - torch_sparse==0.6.11
 - tqdm==4.65.0
-```bash
-python main.py --Bigg
-```
+
 ### Quick start
 We use the dataset BiGG to illustrate an example. 
 
